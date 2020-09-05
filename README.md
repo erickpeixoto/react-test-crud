@@ -8,7 +8,7 @@ O teste prevê uma entrega de um sistema com funcionalidades básicas de criaç�
 
 
 ## Regras de execução
-Ao clonar o repositório, crie um ``branch`` com o seu nome, exemplo: 
+Faça o fork do repositório, crie um ``branch`` com o seu nome, exemplo: 
 ``git checkout -b teste/erickeduardo``
 
 Após a conclusão do teste, suba suas alterações e crie um [Pull Request](https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request "Exemplo de como criar") do seu ``Branch``
